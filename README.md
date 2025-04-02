@@ -1,6 +1,6 @@
 <div align="center">
 
-![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/0x451?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/0x451?v=4&h=300&w=300&fit=cover&mask=circle)
 
 _**Jack of all trades, master of none.**_
 
